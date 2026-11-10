@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "veterinary-clinic-management",
+  "description": "Veterinary Clinic Management — Healthcare Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Vet clinic for pet/owner records, appointments, treatments, pharmacy, and billing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "healthcare",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/veterinary-clinic-management"
+}
